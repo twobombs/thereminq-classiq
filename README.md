@@ -1,5 +1,5 @@
 # ThereminQ - CLassiQ
-## Orchestrating Qrack derivatives in C & Python on OpenCL and CUDA 
+## Orchestrating Qrack derivatives on OpenCL and CUDA 
 
 <img width="1969" height="1435" alt="thereminq-resize" src="https://github.com/user-attachments/assets/4343c6c4-2a3a-48a9-874a-c8484e83cbf2" />
 
