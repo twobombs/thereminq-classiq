@@ -37,6 +37,12 @@ Installation setup and usage scenarios can be glanced at [here](https://gist.git
 
 -------------
 
+### Documentation
+
+For a detailed explanation of the project structure, directories, and scripts, please see [DOCUMENTATION.md](DOCUMENTATION.md).
+
+-------------
+
 ### Build on  [deploy-nvidia-docker](https://github.com/twobombs/deploy-nvidia-docker) and [CUDA-CLuster](https://github.com/twobombs/cudacluster )
 - WebVNC, CUDA 12+ & OpenCL 1.2+ with NV, AMD & Intel HW support
 
