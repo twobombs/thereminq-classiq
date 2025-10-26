@@ -15,6 +15,6 @@ startxfce4 &
 cd /qrack/_build/ && ./qrack_cl_precompile &
 
 export DISPLAY=:0&&xterm -e "xset s off" &
-export DISPLAY=:0&&xterm -e "neofetch && tail -f /dev/null" &
+export DISPLAY=:0&&xterm -bg black -fg white -e "neofetch && tail -f /dev/null" &
 
 tail -f /dev/null
