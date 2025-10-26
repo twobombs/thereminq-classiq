@@ -1,11 +1,7 @@
 # ThereminQ - CLassiQ
 ## Orchestrating Qrack derivatives on OpenCL and CUDA 
 
-<img width="1969" height="1435" alt="thereminq-resize" src="https://github.com/user-attachments/assets/4343c6c4-2a3a-48a9-874a-c8484e83cbf2" />
-
-![](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
-
-[![ThereminQ data demo #1](https://img.youtube.com/vi/CgvKkK4-OlE/0.jpg)](https://youtu.be/CgvKkK4-OlE "ThereminQ data demo #1")
+<img width="5978" height="1578" alt="468390747-272a9fdc-d924-4771-850c-d100f23562f6 (1)" src="https://github.com/user-attachments/assets/e83fbdd0-480d-43b2-a658-ea22a2145be3" />
 
 -------------
 
