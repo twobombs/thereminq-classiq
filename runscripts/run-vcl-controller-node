@@ -12,7 +12,7 @@ x0vncserver -display :0 -passwordfile /root/.vnc/passwd&
 xrdp &
 
 export DISPLAY=:0&&xterm -e "xset s off" &
-export DISPLAY=:0&&xterm -e "neofetch && tail -f /dev/null" &
+export DISPLAY=:0&&xterm -bg black -fg white -e "neofetch && tail -f /dev/null" &
 
 # start vcl controller with nodes file from mount
 cp /var/log/vcl/etc/vcl/nodes /etc/vcl/nodes
