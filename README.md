@@ -1,7 +1,7 @@
 # ThereminQ - CLassiQ
 ## Orchestrating Qrack derivatives on OpenCL and CUDA 
 
-<img width="1536" height="1024" alt="ChatGPT Image Jan 1, 2026, 12_55_47 PM" src="https://github.com/user-attachments/assets/64036380-01d8-4b3a-9152-eff641577d4c" />
+<img width="1016" height="443" alt="Screenshot from 2026-01-01 15-36-30" src="https://github.com/user-attachments/assets/b5c8d613-5dac-484a-baef-0032dfd8e484" />
 
 -------------
 
